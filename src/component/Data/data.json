@@ -1,0 +1,35 @@
+[
+	{
+	  "id": 1,
+	  "name": "customer_service",
+	  "subDepartments": [
+		{
+		  "id": 11,
+		  "name": "support"
+		},
+		{
+		  "id": 12,
+		  "name": "customer_success"
+		}
+	  ]
+	},
+	{
+	  "id": 2,
+	  "name": "design",
+	  "subDepartments": [
+		{
+		  "id": 21,
+		  "name": "graphic_design"
+		},
+		{
+		  "id": 22,
+		  "name": "product_design"
+		},
+		{
+		  "id": 23,
+		  "name": "web_design"
+		}
+	  ]
+	}
+  ]
+  
